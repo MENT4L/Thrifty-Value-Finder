@@ -1,0 +1,7 @@
+{
+  "name": "Thrifty Value Finder",
+  "description": "An app for resellers to find the estimated value of items. Users can take a photo of an item, and the app will use AI to identify it and provide an estimated resale value. Now a Progressive Web App (PWA) with offline capabilities, so you can add it to your phone's home screen!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
